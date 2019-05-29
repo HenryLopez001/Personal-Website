@@ -1,0 +1,31 @@
+body {
+background-image: url(img/dark-paths/dark-paths/dark-paths.png);
+}
+
+.main {
+align-items: center;
+display: flex;
+flex-direction: column;
+}
+
+.midbox {
+background: rgba(0, 0, 128, 0.62);
+border: .1em solid #00009a;
+display: flex;
+height: auto;
+flex-direction: column;
+padding: .1em;
+width: 85%;
+}
+
+.box1 {
+background: rgba(66, 0, 144, 0.87);
+border: .1em solid #7d00fc;
+color: #7d00fc;
+display: flex;
+flex-direction: row;
+font-size: 1.2em;
+margin: 1em;
+padding: .1em;
+width: auto;
+}
