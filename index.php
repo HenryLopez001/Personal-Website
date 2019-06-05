@@ -17,7 +17,7 @@
 </h1>
 
 <div class="box1">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore totam quas tenetur perferendis? Accusamus quisquam nostrum delectus vitae, officia vero illum, magni laborum sunt. Debitis illum totam optio dolores a.</p>
+<h2>Hello, and Welcome to My Website</h2>
 </div>
 </div>
 <div class="foot"><?php include"footer.php"?></div>

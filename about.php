@@ -15,9 +15,9 @@
 <h1 class="header">
 <p>About</p>
 </h1>
-
+<img src="img/Pro-Dress-Photo-20%20(3).jpg" alt="">
 <div class="box1">
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima odit id, sequi nemo reprehenderit amet accusantium. Hic ut, minus atque, eum veniam praesentium recusandae suscipit reprehenderit soluta fugit earum, doloribus.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere maiores iusto delectus facilis officiis tenetur placeat quo, quas voluptate ab aperiam. Nesciunt quia nulla quibusdam cupiditate omnis fuga est facilis.</p>
+<p>Hello, my Name is Henry Lopez. I'm a Student at Clovis East High School and The Center For Research and Technology. At CE I'm a Student, Soon to Graduite at Year 2020. Throughout my High School Life I Wanted to Study Computer Science and Make Codes Like Websites. Also For My Free Time I Spend it by Playing Video Games and/or Pratice Coding</p>
 </div>
 
 <div class="row">

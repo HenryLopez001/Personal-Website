@@ -61,8 +61,8 @@ border: .1em solid #0101b2;
 color: #0303ff;
 display: ;
 flex-direction: row;
-font-size: 1.5em;
-margin: 1em;
+font-size: 2.5em;
+margin: .5em;
 padding: .1em;
 text-align: center;
 width: 80%;
@@ -107,4 +107,40 @@ width: 85%;
 .row {
 display: flex;
 flex-direction: row;
+}
+
+form {
+    width: 30em;
+}
+
+/* Media */
+
+@media only screen and (max-width: 640px) {
+    
+    .top {
+        width: 99%
+    }
+    
+    .midbox {
+        width: auto;
+    }
+    
+    .row {
+        display: flex;
+        flex-direction: column;
+    }
+    .box1{
+        width: auto;
+    }
+    
+    .box2 {
+        width: auto;
+    }
+    
+    .box3 {
+        width: auto;
+    }
+    .foot {
+        width: 99%
+    }
 }

@@ -19,20 +19,26 @@
 <div class="row">
 <div class="box3">
 <p><b>Flash Talk</b><br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit cupiditate temporibus voluptatum nam voluptatem accusamus nihil consectetur, velit, doloremque enim dicta hic perspiciatis reprehenderit est odio voluptatibus ut. Ea, ipsam.
-<br><br> Image Place Holder</p>
+This was an English Assignment. This was About How the Student Point of View of and Tech Based In the Real World. Once Viewed We Have to Writte About What it is, How it Worked, and How It Effect To Society.
+<br><br>
+I Have Researched of a Self Draving Car and How it Effect to the Real World. I Wrote Down of a Vehicle That Doesn't Have a Driver. Next I Wrote Doen of What Effects to  human Being, Good and Bad Effect, and What Will Occur to To Whole World in the Furture.
+<br><br> <img src="img/englishex1.2.jpg" alt=""></p>
 </div>
 
 <div class="box3">
 <p><b>Career Of Choice</b><br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugiat natus officiis tenetur placeat doloribus, unde enim deleniti nisi, nobis ducimus ex, maiores tempore sit. Odio cupiditate in maxime itaque totam!
-<br><br> Image Place Holder</p>
+My Next English Assignment Was The Career of Choice. This Was About of What Will be Our Career Will be In the Future. With Our Career Chosen, We Have to Write What is About, The Income, Reqirements In College/School, and Personal Skills.
+<br><br>
+My Career Of Choice Was omputer Programing. This was About Of a Person Who is Creating Code on a Website or a App. This Require Some Skills of Computer Science Like HTML, CSS, JavaScript, etc. Also it Require a College Level Classes in Computer Science.
+<br><br> <img src="img/englishex2.jpg" alt=""></p>
 </div>
 
 <div class="box3">
 <p><b><i>Ready Player One</i> Essay</b><br><br>
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere illo exercitationem ipsa illum minima nisi, fugit quas perspiciatis culpa? Soluta inventore, cum doloremque deserunt assumenda molestias itaque aliquam optio reprehenderit?
-<br><br> Image Place Holder</p>
+This Assignment is an Essay About a Book That is Called <i>Ready Player One</i>. The Book was About THE Future and What Will Become the Majior Changes. Once Completed Reading the Book, We Have To Write Down an Essay of Some Seclected Topics
+<br><br>
+The Topic I Choose Was About How People Feel When They Use Technology to Effect Their Habit, Emotion, and Commuication. These Topic Will be Wriiten Down With Some Evidence From the Book. Also These Topics Needed to be Written Down of What May Happen and What Will Change In Society.
+<br><br> <img src="img/rpo1.jpg" alt=""></p>
 </div>
 </div> 
 </div>
